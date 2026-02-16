@@ -1,3 +1,3 @@
-red 
+red blue
 Testing change
 
